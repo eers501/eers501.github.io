@@ -1,3 +1,5 @@
+[Image](https://cdn.jpegmini.com/user/images/slider_puffin_jpegmini_mobile.jpg)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/eers501/eers501.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
