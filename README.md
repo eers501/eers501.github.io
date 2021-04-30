@@ -1,0 +1,2 @@
+# eers501.github.io
+COPY OF OUR CNN MODEL FOR INT2 PROJECT
